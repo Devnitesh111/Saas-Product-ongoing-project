@@ -1,0 +1,26 @@
+use shadcn files in global.css
+npx create-next-app@latest
+npx shadcn-ui@latest
+npm install -g pnpm :- install pnpm
+iwr https://get.pnpm.io/install.ps1 -useb | iex
+pnpm install by deleting node module and package.json 
+ pnpm install clsx tailwind-merg
+changes is done in layout
+inter for merge 
+ pnpm install tailwindcss-animate
+ pnpm install tailwindcss-animate @tailwindcss/typography for superanimate night mah ni and it doesnt create over head and load
+pnpm install lucide-react for icon libarary
+npx shadcn-ui@latest add button for button
+npx shadcn-ui@latest init 
+  pnpm install @kinde-oss/kinde-auth-nextjs
+
+pnpm add @trpc/server@next @trpc/client@next @trpc/react-query@next @trpc/next@next @tanstack/react-query@latest zod
+hosting trpc with next adaptor backend ko mah 
+aru chai quick start 
+
+npx prisma init 
+for database as prisma
+
+npx prisma db push:- for push
+npx prisma generate for types in database
+npx prisma studio for seeing is it inserted in database or not 
